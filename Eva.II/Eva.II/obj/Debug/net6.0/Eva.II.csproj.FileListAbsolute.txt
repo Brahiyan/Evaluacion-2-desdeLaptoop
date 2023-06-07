@@ -1,0 +1,15 @@
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\Eva.II.csproj.AssemblyReference.cache
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\Eva.II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\Eva.II.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\Eva.II.AssemblyInfo.cs
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\Eva.II.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Eva.II\Eva.II\bin\Debug\net6.0\Eva.II.exe
+C:\Users\brian\Documents\Eva.II\Eva.II\bin\Debug\net6.0\Eva.II.deps.json
+C:\Users\brian\Documents\Eva.II\Eva.II\bin\Debug\net6.0\Eva.II.runtimeconfig.json
+C:\Users\brian\Documents\Eva.II\Eva.II\bin\Debug\net6.0\Eva.II.dll
+C:\Users\brian\Documents\Eva.II\Eva.II\bin\Debug\net6.0\Eva.II.pdb
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\Eva.II.dll
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\refint\Eva.II.dll
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\Eva.II.pdb
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\Eva.II.genruntimeconfig.cache
+C:\Users\brian\Documents\Eva.II\Eva.II\obj\Debug\net6.0\ref\Eva.II.dll
